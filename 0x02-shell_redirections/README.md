@@ -1,1 +1,2 @@
-Task O Script to print hello world
+# shell redirection
+echo readme
